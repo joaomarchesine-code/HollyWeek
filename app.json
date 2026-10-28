@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "HollyWeek",
+    "slug": "my-week",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.myweek.app"
+    },
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-status-bar"
+    ]
+  }
+}
